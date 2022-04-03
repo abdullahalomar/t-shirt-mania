@@ -1,0 +1,98 @@
+[
+    {
+      "_id": 987654321,
+      "index": 1,
+      "picture": "img/black-t-shirt.jpg",
+      "name": "mix-black",
+      "price": 15,
+      "gender": "mix-black"
+    },
+    {
+      "_id": 9876543210,
+      "index": 2,
+      "picture": "img/blue-t-shirt.jpg",
+      "name": "mix-blue",
+      "price": 18,
+      "gender": "mix-blue"
+    },
+    {
+      "_id": 9876543211,
+      "index": 3,
+      "picture": "img/brown-t-shirt.jpg",
+      "name": "mix-brown",
+      "price": 33,
+      "gender": "mix-brown"
+    },
+    {
+      "_id": 9876543212,
+      "index": 4,
+      "picture": "img/coral-t-shirt.jpg",
+      "name": "mix-coral",
+      "price": 19,
+      "gender": "mix-coral"
+    },
+    {
+      "_id": 9876543213,
+      "index": 5,
+      "picture": "img/gray-t-shirt.jpg",
+      "name": "mix-gray",
+      "price": 32,
+      "gender": "mix-gray"
+    },
+    {
+      "_id": 9876543214,
+      "index": 6,
+      "picture": "img/green-t-shirt.jpg",
+      "name": "mix-green",
+      "price": 43,
+      "gender": "mix-green"
+    },
+    {
+      "_id": 9876543215,
+      "index": 7,
+      "picture": "img/magenta-t-shirt.jpg",
+      "name": "mix-magenta",
+      "price": 45,
+      "gender": "mix-magenta"
+    },
+    {
+      "_id": 9876543216,
+      "index": 8,
+      "picture": "img/orange-t-shirt.jpg",
+      "name": "mix-orange",
+      "price": 27,
+      "gender": "mix-orange"
+    },
+    {
+      "_id": 9876543217,
+      "index": 9,
+      "picture": "img/purple-t-shirt.jpg",
+      "name": "mix-purple",
+      "price": 23,
+      "gender": "mix-purple"
+    },
+    {
+      "_id": 9876543218,
+      "index": 10,
+      "picture": "img/red-t-shirt.jpg",
+      "name": "mix-red",
+      "price": 34,
+      "gender": "mix-red"
+    },
+    {
+      "_id": 9876543219,
+      "index": 11,
+      "picture": "img/white-t-shirt.jpg",
+      "name": "mix-white",
+      "price": 20,
+      "gender": "mix-white"
+    },
+    {
+      "_id": 98765432110,
+      "index": 12,
+      "picture": "img/yellow-t-shirt.jpg",
+      "name": "mix-yellow",
+      "price": 15,
+      "gender": "mix-yellow"
+    }
+  ]
